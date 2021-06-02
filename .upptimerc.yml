@@ -7,7 +7,7 @@ sites:
     url: https://searches.ellis.ie/
   - name: Ellis Site - https://www.ellis.ie/
     url: https://www.ellis.ie/
-  - name: ISI Site
+  - name: ISI Public Site
     url:  https://isi.jahs.ie/public
     icon: https://isi.jahs.ie/static/images/isi_logo.png
   - name: ISI System
