@@ -41,19 +41,17 @@
     "icon": "https://isi.jahs.ie/static/images/isi_logo.png",
     "slug": "isi-public-site",
     "status": "up",
-    "uptime": "3.82%",
-    "uptimeDay": "3.82%",
-    "uptimeWeek": "3.82%",
-    "uptimeMonth": "3.82%",
-    "uptimeYear": "3.82%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1611,
     "timeDay": 1611,
     "timeWeek": 1611,
     "timeMonth": 1611,
     "timeYear": 1611,
-    "dailyMinutesDown": {
-      "2021-06-02": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ISI System",
