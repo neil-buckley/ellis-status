@@ -16,7 +16,7 @@ sites:
   - name: Digital Ocean - https://status.digitalocean.com/
     url: https://status.digitalocean.com/api/v2/status.json
     __dangerous__body_degraded_if_text_missing: "All Systems Operational"
-    icon: https://images.prismic.io/www-static/49aa0a09-06d2-4bba-ad20-4bcbe56ac507_logo.png?auto=compress,format
+    icon: https://www-static.cdn.prismic.io/www-static%2F903fd83b-8963-42c2-baf6-44f4d6bb83f2_digitalocean-logo-mark.svg
   - name: ISI API
     url: $ISI_API
     icon: https://isi.jahs.ie/static/images/isi_logo.png
