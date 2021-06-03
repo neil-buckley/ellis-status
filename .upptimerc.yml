@@ -37,7 +37,7 @@ status-website:
   introMessage: Realtime status monitoring of Ellis applications
   navbar:
     - title: Status
-      href: /ellis-status/
+      href: /
     - title: Production Site
       href: https://searches.ellis.ie/
 
