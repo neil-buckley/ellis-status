@@ -41,11 +41,7 @@ status-website:
     - title: Production Site
       href: https://searches.ellis.ie/
 
-
 i18n:
-  footer: Powered by [Upptime](https://upptime.js.org) 
-  #   - title: GitHub
-  #     href: https://github.com/$OWNER/$REPO
+  footer: Ellis & Ellis
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+
