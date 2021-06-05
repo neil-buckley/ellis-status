@@ -76,19 +76,19 @@
     "url": "https://status.digitalocean.com/api/v2/status.json",
     "icon": "https://www-static.cdn.prismic.io/www-static%2F903fd83b-8963-42c2-baf6-44f4d6bb83f2_digitalocean-logo-mark.svg",
     "slug": "digital-ocean-https-status-digitalocean-com",
-    "status": "degraded",
-    "uptime": "96.52%",
-    "uptimeDay": "92.67%",
-    "uptimeWeek": "96.52%",
-    "uptimeMonth": "96.52%",
-    "uptimeYear": "96.52%",
-    "time": 147,
-    "timeDay": 151,
-    "timeWeek": 147,
-    "timeMonth": 147,
-    "timeYear": 147,
+    "status": "up",
+    "uptime": "93.53%",
+    "uptimeDay": "85.95%",
+    "uptimeWeek": "93.53%",
+    "uptimeMonth": "93.53%",
+    "uptimeYear": "93.53%",
+    "time": 161,
+    "timeDay": 185,
+    "timeWeek": 161,
+    "timeMonth": 161,
+    "timeYear": 161,
     "dailyMinutesDown": {
-      "2021-06-05": 105
+      "2021-06-05": 202
     }
   },
   {
