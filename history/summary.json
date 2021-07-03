@@ -31,7 +31,7 @@
     "time": 752,
     "timeDay": 889,
     "timeWeek": 906,
-    "timeMonth": 767,
+    "timeMonth": 773,
     "timeYear": 752,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1633,
     "timeDay": 1871,
     "timeWeek": 1989,
-    "timeMonth": 1628,
+    "timeMonth": 1631,
     "timeYear": 1633,
     "dailyMinutesDown": {}
   },
@@ -58,19 +58,19 @@
     "url": "https://www.landdirect.ie/pramap/",
     "icon": "https://www.landdirect.ie/images/Form17/PRASymbol.png",
     "slug": "land-registry-public-site-https-www-landdirect-ie",
-    "status": "down",
-    "uptime": "98.70%",
-    "uptimeDay": "83.45%",
-    "uptimeWeek": "97.64%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "98.70%",
-    "time": 1217,
-    "timeDay": 1217,
-    "timeWeek": 1438,
-    "timeMonth": 1220,
-    "timeYear": 1217,
+    "status": "up",
+    "uptime": "98.67%",
+    "uptimeDay": "82.73%",
+    "uptimeWeek": "97.53%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "98.67%",
+    "time": 1227,
+    "timeDay": 1327,
+    "timeWeek": 1460,
+    "timeMonth": 1242,
+    "timeYear": 1227,
     "dailyMinutesDown": {
-      "2021-07-03": 238,
+      "2021-07-03": 248,
       "2021-06-08": 334
     }
   },
@@ -88,7 +88,7 @@
     "time": 381,
     "timeDay": 83,
     "timeWeek": 139,
-    "timeMonth": 391,
+    "timeMonth": 393,
     "timeYear": 381,
     "dailyMinutesDown": {
       "2021-06-29": 10,
@@ -120,7 +120,7 @@
     "time": 99,
     "timeDay": 135,
     "timeWeek": 126,
-    "timeMonth": 99,
+    "timeMonth": 100,
     "timeYear": 99,
     "dailyMinutesDown": {}
   },
@@ -138,7 +138,7 @@
     "time": 494,
     "timeDay": 574,
     "timeWeek": 568,
-    "timeMonth": 494,
+    "timeMonth": 496,
     "timeYear": 494,
     "dailyMinutesDown": {}
   }
