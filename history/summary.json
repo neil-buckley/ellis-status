@@ -40,10 +40,10 @@
     "url": "https://isi.jahs.ie/",
     "icon": "https://isi.jahs.ie/static/images/isi_logo.png",
     "slug": "isi-public-site-https-isi-jahs-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1729,
@@ -51,18 +51,20 @@
     "timeWeek": 2214,
     "timeMonth": 1792,
     "timeYear": 1729,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-14": 1
+    }
   },
   {
     "name": "Land Registry Public Site - https://www.landdirect.ie",
     "url": "https://www.landdirect.ie/pramap/",
     "icon": "https://www.landdirect.ie/images/Form17/PRASymbol.png",
     "slug": "land-registry-public-site-https-www-landdirect-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.46%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.45%",
     "uptimeYear": "99.02%",
     "time": 1237,
     "timeDay": 1069,
@@ -70,6 +72,7 @@
     "timeMonth": 1276,
     "timeYear": 1237,
     "dailyMinutesDown": {
+      "2021-07-14": 1,
       "2021-07-03": 238,
       "2021-06-08": 334
     }
@@ -80,11 +83,11 @@
     "icon": "https://www-static.cdn.prismic.io/www-static%2F903fd83b-8963-42c2-baf6-44f4d6bb83f2_digitalocean-logo-mark.svg",
     "slug": "digital-ocean-https-status-digitalocean-com",
     "status": "up",
-    "uptime": "92.77%",
+    "uptime": "92.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.51%",
     "uptimeMonth": "94.32%",
-    "uptimeYear": "92.77%",
+    "uptimeYear": "92.78%",
     "time": 327,
     "timeDay": 167,
     "timeWeek": 139,
@@ -112,9 +115,9 @@
     "url": "$ISI_API",
     "icon": "https://isi.jahs.ie/static/images/isi_logo.png",
     "slug": "isi-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,7 +126,9 @@
     "timeWeek": 104,
     "timeMonth": 103,
     "timeYear": 100,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-14": 0
+    }
   },
   {
     "name": "CRO API",
