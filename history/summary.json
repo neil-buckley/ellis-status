@@ -22,9 +22,9 @@
     "url": "https://www.ellis.ie/",
     "icon": "https://favicons.githubusercontent.com/www.ellis.ie",
     "slug": "ellis-site-https-www-ellis-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1815,
     "timeMonth": 1109,
     "timeYear": 906,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-31": 0
+    }
   },
   {
     "name": "ISI Public Site - https://isi.jahs.ie/",
@@ -84,11 +86,11 @@
     "icon": "https://www-static.cdn.prismic.io/www-static%2F903fd83b-8963-42c2-baf6-44f4d6bb83f2_digitalocean-logo-mark.svg",
     "slug": "digital-ocean-https-status-digitalocean-com",
     "status": "up",
-    "uptime": "88.22%",
-    "uptimeDay": "0.01%",
+    "uptime": "88.26%",
+    "uptimeDay": "21.16%",
     "uptimeWeek": "50.88%",
     "uptimeMonth": "85.16%",
-    "uptimeYear": "88.22%",
+    "uptimeYear": "88.26%",
     "time": 270,
     "timeDay": 122,
     "timeWeek": 143,
