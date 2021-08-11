@@ -34,7 +34,7 @@ status-website:
   robotsText: "User-agent: * \n Disallow: /"
   name:  Ellis & Ellis
   introTitle: "Ellis & Ellis Uptime and Status Monitor"
-  introMessage: Realtime status monitoring of Ellis applications
+  introMessage: Realtime status monitoring of Ellis and related applications
   navbar:
     - title: Status
       href: /
