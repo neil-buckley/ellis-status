@@ -22,9 +22,9 @@
     "url": "https://www.ellis.ie/",
     "icon": "https://favicons.githubusercontent.com/www.ellis.ie",
     "slug": "ellis-site-https-www-ellis-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
@@ -34,6 +34,7 @@
     "timeMonth": 1336,
     "timeYear": 1144,
     "dailyMinutesDown": {
+      "2021-10-26": 0,
       "2021-08-01": 227,
       "2021-07-31": 76
     }
@@ -106,9 +107,9 @@
     "slug": "digital-ocean-https-status-digitalocean-com",
     "status": "degraded",
     "uptime": "92.22%",
-    "uptimeDay": "91.68%",
-    "uptimeWeek": "96.11%",
-    "uptimeMonth": "93.49%",
+    "uptimeDay": "90.84%",
+    "uptimeWeek": "95.99%",
+    "uptimeMonth": "93.47%",
     "uptimeYear": "92.22%",
     "time": 201,
     "timeDay": 239,
@@ -116,7 +117,7 @@
     "timeMonth": 164,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2021-10-26": 13,
+      "2021-10-26": 25,
       "2021-10-25": 106,
       "2021-10-23": 70,
       "2021-10-21": 67,
