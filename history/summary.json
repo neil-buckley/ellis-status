@@ -207,19 +207,19 @@
     "url": "$CRO_API",
     "icon": "https://pbs.twimg.com/profile_images/1278628334969196545/gx2xLJ9y_400x400.jpg",
     "slug": "cro-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 752,
-    "timeDay": 5407,
-    "timeWeek": 1741,
-    "timeMonth": 1164,
+    "timeDay": 3826,
+    "timeWeek": 1621,
+    "timeMonth": 1150,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2021-11-08": 0,
+      "2021-11-08": 16,
       "2021-10-21": 16
     }
   }
