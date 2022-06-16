@@ -127,7 +127,7 @@
     "slug": "digital-ocean-https-status-digitalocean-com",
     "status": "up",
     "uptime": "93.84%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "5.04%",
     "uptimeWeek": "85.71%",
     "uptimeMonth": "96.71%",
     "uptimeYear": "93.72%",
@@ -242,8 +242,7 @@
       "2021-06-23": 60,
       "2021-06-22": 802,
       "2021-06-20": 129,
-      "2021-06-19": 245,
-      "2021-06-16": 66
+      "2021-06-19": 245
     }
   },
   {
