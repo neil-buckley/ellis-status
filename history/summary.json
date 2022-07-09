@@ -127,18 +127,19 @@
     "icon": "https://www-static.cdn.prismic.io/www-static%2F903fd83b-8963-42c2-baf6-44f4d6bb83f2_digitalocean-logo-mark.svg",
     "slug": "digital-ocean-https-status-digitalocean-com",
     "status": "degraded",
-    "uptime": "93.54%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "85.71%",
-    "uptimeMonth": "86.85%",
-    "uptimeYear": "93.17%",
+    "uptime": "93.52%",
+    "uptimeDay": "95.09%",
+    "uptimeWeek": "85.01%",
+    "uptimeMonth": "86.69%",
+    "uptimeYear": "93.16%",
     "time": 190,
     "timeDay": 198,
     "timeWeek": 172,
     "timeMonth": 176,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2022-07-08": 0,
+      "2022-07-09": 16,
+      "2022-07-08": 54,
       "2022-07-03": 1386,
       "2022-07-02": 54,
       "2022-06-23": 1386,
@@ -242,8 +243,7 @@
       "2021-07-17": 43,
       "2021-07-16": 87,
       "2021-07-15": 31,
-      "2021-07-14": 72,
-      "2021-07-09": 856
+      "2021-07-14": 72
     }
   },
   {
