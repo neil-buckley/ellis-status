@@ -13,7 +13,7 @@
     "time": 641,
     "timeDay": 651,
     "timeWeek": 683,
-    "timeMonth": 594,
+    "timeMonth": 597,
     "timeYear": 652,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1558,
     "timeDay": 1733,
     "timeWeek": 1625,
-    "timeMonth": 1511,
+    "timeMonth": 1520,
     "timeYear": 1630,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1880,
     "timeDay": 1738,
     "timeWeek": 1701,
-    "timeMonth": 2061,
+    "timeMonth": 2062,
     "timeYear": 1890,
     "dailyMinutesDown": {
       "2022-06-17": 1390,
@@ -72,7 +72,7 @@
     "time": 1403,
     "timeDay": 1381,
     "timeWeek": 1256,
-    "timeMonth": 1226,
+    "timeMonth": 1228,
     "timeYear": 1424,
     "dailyMinutesDown": {
       "2022-05-30": 1386,
@@ -104,14 +104,14 @@
     "slug": "digital-ocean-https-status-digitalocean-com",
     "status": "up",
     "uptime": "92.32%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "5.18%",
     "uptimeWeek": "85.72%",
     "uptimeMonth": "90.14%",
     "uptimeYear": "91.52%",
     "time": 177,
     "timeDay": 342,
     "timeWeek": 220,
-    "timeMonth": 188,
+    "timeMonth": 186,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2022-11-13": 1386,
@@ -225,7 +225,7 @@
     "time": 626,
     "timeDay": 538,
     "timeWeek": 506,
-    "timeMonth": 490,
+    "timeMonth": 493,
     "timeYear": 573,
     "dailyMinutesDown": {
       "2021-11-21": 19
