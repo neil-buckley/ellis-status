@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 639,
-    "timeDay": 489,
+    "timeDay": 544,
     "timeWeek": 563,
     "timeMonth": 645,
     "timeYear": 650,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1696,
-    "timeDay": 3333,
+    "timeDay": 3766,
     "timeWeek": 2964,
     "timeMonth": 2829,
     "timeYear": 1768,
@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 1896,
-    "timeDay": 2035,
+    "timeDay": 2541,
     "timeWeek": 1815,
     "timeMonth": 1981,
     "timeYear": 1897,
@@ -68,7 +68,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.35%",
     "time": 1419,
-    "timeDay": 1186,
+    "timeDay": 1422,
     "timeWeek": 1276,
     "timeMonth": 1440,
     "timeYear": 1379,
@@ -82,8 +82,7 @@
       "2022-04-02": 1386,
       "2022-04-01": 54,
       "2022-03-05": 1385,
-      "2022-03-04": 54,
-      "2022-01-21": 20
+      "2022-03-04": 54
     }
   },
   {
@@ -93,12 +92,12 @@
     "slug": "digital-ocean-https-status-digitalocean-com",
     "status": "up",
     "uptime": "90.75%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "5.09%",
     "uptimeWeek": "71.43%",
     "uptimeMonth": "90.14%",
     "uptimeYear": "88.16%",
     "time": 188,
-    "timeDay": 113,
+    "timeDay": 184,
     "timeWeek": 149,
     "timeMonth": 201,
     "timeYear": 192,
@@ -170,8 +169,7 @@
       "2022-02-03": 1385,
       "2022-02-02": 1440,
       "2022-02-01": 55,
-      "2022-01-22": 180,
-      "2022-01-21": 147
+      "2022-01-22": 180
     }
   },
   {
@@ -186,7 +184,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 113,
-    "timeDay": 79,
+    "timeDay": 82,
     "timeWeek": 125,
     "timeMonth": 157,
     "timeYear": 114,
@@ -207,7 +205,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 630,
-    "timeDay": 396,
+    "timeDay": 408,
     "timeWeek": 488,
     "timeMonth": 541,
     "timeYear": 550,
