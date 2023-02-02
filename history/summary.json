@@ -94,10 +94,10 @@
     "slug": "digital-ocean-https-status-digitalocean-com",
     "status": "up",
     "uptime": "90.47%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "5.17%",
     "uptimeWeek": "57.14%",
     "uptimeMonth": "83.56%",
-    "uptimeYear": "87.40%",
+    "uptimeYear": "87.41%",
     "time": 188,
     "timeDay": 103,
     "timeWeek": 145,
@@ -174,8 +174,7 @@
       "2022-03-16": 1386,
       "2022-03-15": 1440,
       "2022-03-14": 54,
-      "2022-02-03": 1385,
-      "2022-02-02": 1440
+      "2022-02-03": 1385
     }
   },
   {
