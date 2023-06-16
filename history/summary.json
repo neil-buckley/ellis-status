@@ -54,8 +54,7 @@
     "dailyMinutesDown": {
       "2023-01-27": 1385,
       "2023-01-26": 54,
-      "2022-06-17": 1390,
-      "2022-06-16": 54
+      "2022-06-17": 1390
     }
   },
   {
@@ -89,9 +88,9 @@
     "slug": "digital-ocean-https-status-digitalocean-com",
     "status": "up",
     "uptime": "88.87%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "5.17%",
     "uptimeWeek": "85.71%",
-    "uptimeMonth": "83.57%",
+    "uptimeMonth": "83.73%",
     "uptimeYear": "81.92%",
     "time": 191,
     "timeDay": 344,
@@ -217,8 +216,7 @@
     "dailyMinutesDown": {
       "2023-01-27": 1385,
       "2023-01-26": 54,
-      "2022-06-17": 1391,
-      "2022-06-16": 54
+      "2022-06-17": 1391
     }
   },
   {
