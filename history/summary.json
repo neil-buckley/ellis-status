@@ -12,9 +12,9 @@
     "uptimeYear": "100.00%",
     "time": 634,
     "timeDay": 827,
-    "timeWeek": 580,
-    "timeMonth": 601,
-    "timeYear": 632,
+    "timeWeek": 590,
+    "timeMonth": 597,
+    "timeYear": 631,
     "dailyMinutesDown": {}
   },
   {
@@ -30,9 +30,9 @@
     "uptimeYear": "100.00%",
     "time": 2337,
     "timeDay": 1791,
-    "timeWeek": 2907,
-    "timeMonth": 2495,
-    "timeYear": 2604,
+    "timeWeek": 2806,
+    "timeMonth": 2489,
+    "timeYear": 2606,
     "dailyMinutesDown": {}
   },
   {
@@ -48,9 +48,9 @@
     "uptimeYear": "99.73%",
     "time": 1796,
     "timeDay": 1916,
-    "timeWeek": 1598,
-    "timeMonth": 1481,
-    "timeYear": 1787,
+    "timeWeek": 1586,
+    "timeMonth": 1467,
+    "timeYear": 1785,
     "dailyMinutesDown": {
       "2023-01-27": 1385,
       "2023-01-26": 54
@@ -69,9 +69,9 @@
     "uptimeYear": "99.18%",
     "time": 1338,
     "timeDay": 2008,
-    "timeWeek": 1276,
-    "timeMonth": 1275,
-    "timeYear": 1324,
+    "timeWeek": 1321,
+    "timeMonth": 1258,
+    "timeYear": 1323,
     "dailyMinutesDown": {
       "2023-05-07": 1385,
       "2023-05-06": 1440,
@@ -86,10 +86,10 @@
     "icon": "https://www-static.cdn.prismic.io/www-static%2F903fd83b-8963-42c2-baf6-44f4d6bb83f2_digitalocean-logo-mark.svg",
     "slug": "digital-ocean-https-status-digitalocean-com",
     "status": "degraded",
-    "uptime": "89.41%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.71%",
+    "uptime": "89.40%",
+    "uptimeDay": "95.12%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "96.55%",
     "uptimeYear": "84.11%",
     "time": 194,
     "timeDay": 164,
@@ -97,7 +97,8 @@
     "timeMonth": 207,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2023-08-10": 0,
+      "2023-08-11": 16,
+      "2023-08-10": 55,
       "2023-07-21": 1385,
       "2023-07-20": 55,
       "2023-06-29": 1386,
@@ -180,8 +181,7 @@
       "2022-09-15": 54,
       "2022-08-23": 1386,
       "2022-08-22": 55,
-      "2022-08-12": 1386,
-      "2022-08-11": 1440
+      "2022-08-12": 1386
     }
   },
   {
