@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 634,
-    "timeDay": 0,
-    "timeWeek": 605,
-    "timeMonth": 600,
-    "timeYear": 632,
+    "timeDay": 527,
+    "timeWeek": 594,
+    "timeMonth": 598,
+    "timeYear": 631,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 3270,
     "timeWeek": 2759,
     "timeMonth": 2503,
-    "timeYear": 2608,
+    "timeYear": 2611,
     "dailyMinutesDown": {}
   },
   {
@@ -71,7 +71,7 @@
     "timeDay": 1028,
     "timeWeek": 1318,
     "timeMonth": 1259,
-    "timeYear": 1322,
+    "timeYear": 1323,
     "dailyMinutesDown": {
       "2023-05-07": 1385,
       "2023-05-06": 1440,
@@ -86,11 +86,11 @@
     "icon": "https://www-static.cdn.prismic.io/www-static%2F903fd83b-8963-42c2-baf6-44f4d6bb83f2_digitalocean-logo-mark.svg",
     "slug": "digital-ocean-https-status-digitalocean-com",
     "status": "up",
-    "uptime": "89.29%",
-    "uptimeDay": "0.01%",
+    "uptime": "89.30%",
+    "uptimeDay": "4.87%",
     "uptimeWeek": "85.71%",
     "uptimeMonth": "93.43%",
-    "uptimeYear": "84.11%",
+    "uptimeYear": "84.12%",
     "time": 194,
     "timeDay": 154,
     "timeWeek": 204,
@@ -180,8 +180,7 @@
       "2022-09-16": 1386,
       "2022-09-15": 54,
       "2022-08-23": 1386,
-      "2022-08-22": 55,
-      "2022-08-12": 1386
+      "2022-08-22": 55
     }
   },
   {
