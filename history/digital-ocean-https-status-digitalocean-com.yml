@@ -1,7 +1,7 @@
 url: https://status.digitalocean.com/api/v2/status.json
-status: degraded
+status: up
 code: 200
-responseTime: 171
-lastUpdated: 2023-09-11T23:05:11.918Z
+responseTime: 328
+lastUpdated: 2023-09-12T23:05:22.305Z
 startTime: 2021-06-03T17:35:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
