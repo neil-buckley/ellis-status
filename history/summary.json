@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 630,
-    "timeDay": 0,
-    "timeWeek": 641,
-    "timeMonth": 643,
-    "timeYear": 620,
+    "timeDay": 510,
+    "timeWeek": 623,
+    "timeMonth": 638,
+    "timeYear": 619,
     "dailyMinutesDown": {}
   },
   {
@@ -53,7 +53,7 @@
     "timeDay": 533,
     "timeWeek": 706,
     "timeMonth": 692,
-    "timeYear": 1601,
+    "timeYear": 1590,
     "dailyMinutesDown": {
       "2023-01-27": 1385,
       "2023-01-26": 54
@@ -92,7 +92,7 @@
     "slug": "digital-ocean-https-status-digitalocean-com",
     "status": "up",
     "uptime": "88.15%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "5.03%",
     "uptimeWeek": "42.85%",
     "uptimeMonth": "83.56%",
     "uptimeYear": "80.55%",
