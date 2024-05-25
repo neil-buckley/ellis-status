@@ -13,7 +13,7 @@
     "time": 597,
     "timeDay": 818,
     "timeWeek": 492,
-    "timeMonth": 556,
+    "timeMonth": 558,
     "timeYear": 589,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 3097,
     "timeDay": 4720,
     "timeWeek": 2880,
-    "timeMonth": 2868,
+    "timeMonth": 2898,
     "timeYear": 3075,
     "dailyMinutesDown": {
       "2023-08-21": 1385,
@@ -73,7 +73,7 @@
     "time": 1283,
     "timeDay": 1663,
     "timeWeek": 1112,
-    "timeMonth": 1178,
+    "timeMonth": 1175,
     "timeYear": 1286,
     "dailyMinutesDown": {
       "2023-08-17": 1385,
@@ -87,14 +87,14 @@
     "slug": "digital-ocean-https-status-digitalocean-com",
     "status": "up",
     "uptime": "89.45%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "5.01%",
     "uptimeWeek": "85.71%",
-    "uptimeMonth": "86.85%",
-    "uptimeYear": "89.59%",
+    "uptimeMonth": "87.01%",
+    "uptimeYear": "89.60%",
     "time": 202,
     "timeDay": 155,
     "timeWeek": 159,
-    "timeMonth": 186,
+    "timeMonth": 187,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2024-05-24": 1386,
@@ -149,8 +149,7 @@
       "2023-06-29": 1386,
       "2023-06-28": 54,
       "2023-06-15": 1386,
-      "2023-06-14": 54,
-      "2023-05-26": 1386
+      "2023-06-14": 54
     }
   },
   {
@@ -167,7 +166,7 @@
     "time": 115,
     "timeDay": 143,
     "timeWeek": 87,
-    "timeMonth": 110,
+    "timeMonth": 109,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2023-12-28": 1386,
