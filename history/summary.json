@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 593,
     "timeDay": 881,
-    "timeWeek": 760,
+    "timeWeek": 765,
     "timeMonth": 688,
     "timeYear": 590,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 3082,
     "timeDay": 2827,
-    "timeWeek": 2575,
+    "timeWeek": 2582,
     "timeMonth": 3077,
     "timeYear": 3029,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "99.73%",
     "time": 913,
     "timeDay": 936,
-    "timeWeek": 676,
+    "timeWeek": 667,
     "timeMonth": 666,
     "timeYear": 674,
     "dailyMinutesDown": {
@@ -69,7 +69,7 @@
     "uptimeYear": "96.16%",
     "time": 1284,
     "timeDay": 2071,
-    "timeWeek": 1446,
+    "timeWeek": 1379,
     "timeMonth": 1346,
     "timeYear": 1301,
     "dailyMinutesDown": {
@@ -98,7 +98,7 @@
     "slug": "digital-ocean-https-status-digitalocean-com",
     "status": "up",
     "uptime": "88.95%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "5.25%",
     "uptimeWeek": "85.72%",
     "uptimeMonth": "86.85%",
     "uptimeYear": "86.57%",
@@ -179,8 +179,7 @@
       "2023-09-04": 1440,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
-      "2023-09-01": 1440,
-      "2023-08-31": 55
+      "2023-09-01": 1440
     }
   },
   {
