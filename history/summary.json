@@ -98,9 +98,9 @@
     "slug": "digital-ocean-https-status-digitalocean-com",
     "status": "degraded",
     "uptime": "89.07%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.71%",
+    "uptimeDay": "94.79%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "96.54%",
     "uptimeYear": "89.04%",
     "time": 207,
     "timeDay": 129,
@@ -108,7 +108,8 @@
     "timeMonth": 200,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2024-09-09": 0,
+      "2024-09-10": 22,
+      "2024-09-09": 53,
       "2024-08-29": 1386,
       "2024-08-28": 54,
       "2024-08-03": 1386,
@@ -169,8 +170,7 @@
       "2023-09-26": 55,
       "2023-09-14": 1386,
       "2023-09-13": 55,
-      "2023-09-12": 1385,
-      "2023-09-11": 1440
+      "2023-09-12": 1385
     }
   },
   {
