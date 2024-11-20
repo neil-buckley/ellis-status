@@ -1,7 +1,7 @@
 url: https://www.landdirect.ie/pramap/
-status: up
-code: 200
-responseTime: 1172
-lastUpdated: 2024-11-19T23:06:07.250Z
+status: down
+code: 503
+responseTime: 1358
+lastUpdated: 2024-11-20T23:06:01.967Z
 startTime: 2021-06-03T08:04:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
