@@ -194,18 +194,19 @@
     "icon": "https://pbs.twimg.com/profile_images/1278628334969196545/gx2xLJ9y_400x400.jpg",
     "slug": "cro-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "94.58%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.99%",
     "time": 485,
     "timeDay": 359,
     "timeWeek": 485,
     "timeMonth": 493,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2024-11-19": 0
+      "2024-11-20": 24,
+      "2024-11-19": 54
     }
   }
 ]
