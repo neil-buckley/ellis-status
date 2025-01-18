@@ -1,7 +1,7 @@
 url: https://status.digitalocean.com/api/v2/status.json
 status: up
 code: 200
-responseTime: 177
-lastUpdated: 2025-01-17T23:06:01.892Z
+responseTime: 134
+lastUpdated: 2025-01-18T23:05:44.432Z
 startTime: 2021-06-03T17:35:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
