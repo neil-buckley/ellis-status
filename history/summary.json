@@ -63,7 +63,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.62%",
+    "uptimeYear": "95.63%",
     "time": 1376,
     "timeDay": 1859,
     "timeWeek": 1635,
@@ -87,8 +87,7 @@
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
-      "2024-07-05": 54,
-      "2024-07-04": 1386
+      "2024-07-05": 54
     }
   },
   {
@@ -98,7 +97,7 @@
     "slug": "digital-ocean-https-status-digitalocean-com",
     "status": "up",
     "uptime": "89.10%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "5.61%",
     "uptimeWeek": "71.43%",
     "uptimeMonth": "93.43%",
     "uptimeYear": "87.40%",
