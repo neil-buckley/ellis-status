@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 606,
     "timeDay": 788,
-    "timeWeek": 752,
-    "timeMonth": 687,
+    "timeWeek": 768,
+    "timeMonth": 683,
     "timeYear": 603,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2799,
-    "timeDay": 3023,
-    "timeWeek": 2773,
-    "timeMonth": 2750,
+    "timeDay": 3146,
+    "timeWeek": 2831,
+    "timeMonth": 2738,
     "timeYear": 2828,
     "dailyMinutesDown": {}
   },
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 702,
-    "timeDay": 1074,
-    "timeWeek": 866,
-    "timeMonth": 794,
-    "timeYear": 706,
+    "timeDay": 995,
+    "timeWeek": 851,
+    "timeMonth": 783,
+    "timeYear": 705,
     "dailyMinutesDown": {
       "2025-10-25": 1386,
       "2025-10-24": 53
@@ -68,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 1480,
-    "timeDay": 1732,
-    "timeWeek": 1651,
-    "timeMonth": 1598,
+    "timeDay": 1625,
+    "timeWeek": 1604,
+    "timeMonth": 1575,
     "timeYear": 1499,
     "dailyMinutesDown": {
       "2025-05-10": 1386,
@@ -84,14 +84,14 @@
     "slug": "digital-ocean-https-status-digitalocean-com",
     "status": "up",
     "uptime": "88.99%",
-    "uptimeDay": "0.08%",
+    "uptimeDay": "5.72%",
     "uptimeWeek": "85.73%",
     "uptimeMonth": "93.43%",
     "uptimeYear": "88.77%",
     "time": 207,
-    "timeDay": 155,
-    "timeWeek": 191,
-    "timeMonth": 184,
+    "timeDay": 201,
+    "timeWeek": 164,
+    "timeMonth": 186,
     "timeYear": 206,
     "dailyMinutesDown": {
       "2025-12-03": 1386,
@@ -176,10 +176,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 138,
-    "timeWeek": 118,
+    "timeDay": 124,
+    "timeWeek": 120,
     "timeMonth": 129,
-    "timeYear": 111,
+    "timeYear": 110,
     "dailyMinutesDown": {}
   },
   {
@@ -192,14 +192,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.73%",
+    "uptimeYear": "99.74%",
     "time": 481,
-    "timeDay": 570,
-    "timeWeek": 582,
+    "timeDay": 578,
+    "timeWeek": 594,
     "timeMonth": 538,
     "timeYear": 485,
-    "dailyMinutesDown": {
-      "2024-12-04": 1386
-    }
+    "dailyMinutesDown": {}
   }
 ]
