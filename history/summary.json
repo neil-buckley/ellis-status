@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 610,
-    "timeDay": 574,
-    "timeWeek": 589,
-    "timeMonth": 652,
-    "timeYear": 616,
+    "timeDay": 552,
+    "timeWeek": 600,
+    "timeMonth": 647,
+    "timeYear": 615,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2822,
-    "timeDay": 2695,
-    "timeWeek": 3488,
-    "timeMonth": 3337,
-    "timeYear": 3021,
+    "time": 2821,
+    "timeDay": 1899,
+    "timeWeek": 3207,
+    "timeMonth": 3284,
+    "timeYear": 3018,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 716,
-    "timeDay": 529,
-    "timeWeek": 649,
+    "timeDay": 590,
+    "timeWeek": 618,
     "timeMonth": 759,
-    "timeYear": 718,
+    "timeYear": 717,
     "dailyMinutesDown": {
       "2025-10-25": 1386,
       "2025-10-24": 53
@@ -68,10 +68,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 1503,
-    "timeDay": 1238,
-    "timeWeek": 1321,
-    "timeMonth": 1587,
-    "timeYear": 1543,
+    "timeDay": 1232,
+    "timeWeek": 1340,
+    "timeMonth": 1583,
+    "timeYear": 1540,
     "dailyMinutesDown": {
       "2025-05-10": 1386,
       "2025-05-09": 53
@@ -83,15 +83,15 @@
     "icon": "https://www-static.cdn.prismic.io/www-static%2F903fd83b-8963-42c2-baf6-44f4d6bb83f2_digitalocean-logo-mark.svg",
     "slug": "digital-ocean-https-status-digitalocean-com",
     "status": "up",
-    "uptime": "89.79%",
+    "uptime": "89.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.43%",
     "uptimeYear": "90.14%",
     "time": 211,
-    "timeDay": 298,
-    "timeWeek": 183,
-    "timeMonth": 323,
+    "timeDay": 229,
+    "timeWeek": 194,
+    "timeMonth": 324,
     "timeYear": 219,
     "dailyMinutesDown": {
       "2026-03-14": 1391,
@@ -152,8 +152,7 @@
       "2025-04-03": 53,
       "2025-03-27": 1387,
       "2025-03-26": 54,
-      "2025-03-25": 1386,
-      "2025-03-24": 54
+      "2025-03-25": 1386
     }
   },
   {
@@ -169,8 +168,8 @@
     "uptimeYear": "100.00%",
     "time": 111,
     "timeDay": 98,
-    "timeWeek": 97,
-    "timeMonth": 113,
+    "timeWeek": 100,
+    "timeMonth": 114,
     "timeYear": 111,
     "dailyMinutesDown": {}
   },
@@ -186,10 +185,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 485,
-    "timeDay": 454,
-    "timeWeek": 434,
+    "timeDay": 462,
+    "timeWeek": 436,
     "timeMonth": 468,
-    "timeYear": 494,
+    "timeYear": 493,
     "dailyMinutesDown": {}
   }
 ]
