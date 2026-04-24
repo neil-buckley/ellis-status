@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2921,
-    "timeDay": 3292,
+    "timeDay": 1861,
     "timeWeek": 3797,
     "timeMonth": 3657,
     "timeYear": 3093,
@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 715,
-    "timeDay": 527,
+    "timeDay": 579,
     "timeWeek": 714,
     "timeMonth": 706,
     "timeYear": 722,
@@ -86,9 +86,9 @@
     "slug": "digital-ocean-https-status-digitalocean-com",
     "status": "degraded",
     "uptime": "89.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "85.75%",
-    "uptimeMonth": "86.86%",
+    "uptimeDay": "93.98%",
+    "uptimeWeek": "84.89%",
+    "uptimeMonth": "86.66%",
     "uptimeYear": "90.14%",
     "time": 211,
     "timeDay": 161,
@@ -96,7 +96,8 @@
     "timeMonth": 198,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2026-04-23": 0,
+      "2026-04-24": 49,
+      "2026-04-23": 38,
       "2026-04-18": 1395,
       "2026-04-17": 41,
       "2026-04-09": 1400,
@@ -153,8 +154,7 @@
       "2025-05-07": 1440,
       "2025-05-06": 53,
       "2025-04-30": 1387,
-      "2025-04-29": 53,
-      "2025-04-24": 1387
+      "2025-04-29": 53
     }
   },
   {
