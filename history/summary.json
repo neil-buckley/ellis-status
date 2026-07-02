@@ -13,7 +13,7 @@
     "time": 599,
     "timeDay": 487,
     "timeWeek": 487,
-    "timeMonth": 498,
+    "timeMonth": 497,
     "timeYear": 603,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 2983,
     "timeDay": 2734,
     "timeWeek": 3128,
-    "timeMonth": 2710,
+    "timeMonth": 2734,
     "timeYear": 3028,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 705,
     "timeDay": 870,
     "timeWeek": 674,
-    "timeMonth": 653,
+    "timeMonth": 650,
     "timeYear": 717,
     "dailyMinutesDown": {
       "2025-10-25": 1386,
@@ -70,7 +70,7 @@
     "time": 1647,
     "timeDay": 2855,
     "timeWeek": 2433,
-    "timeMonth": 2742,
+    "timeMonth": 2739,
     "timeYear": 1717,
     "dailyMinutesDown": {
       "2026-03-28": 1392,
@@ -84,9 +84,9 @@
     "slug": "digital-ocean-https-status-digitalocean-com",
     "status": "degraded",
     "uptime": "90.29%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.71%",
+    "uptimeDay": "94.05%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "96.51%",
     "uptimeYear": "90.97%",
     "time": 208,
     "timeDay": 184,
@@ -95,7 +95,6 @@
     "timeYear": 214,
     "dailyMinutesDown": {
       "2025-07-03": 1387,
-      "2025-07-02": 1440,
       "2025-07-11": 1387,
       "2025-07-10": 1440,
       "2025-07-09": 53,
@@ -146,7 +145,8 @@
       "2026-05-14": 36,
       "2026-06-17": 1418,
       "2026-06-16": 24,
-      "2026-07-01": 0
+      "2026-07-02": 61,
+      "2026-07-01": 25
     }
   },
   {
@@ -163,7 +163,7 @@
     "time": 157,
     "timeDay": 563,
     "timeWeek": 524,
-    "timeMonth": 510,
+    "timeMonth": 508,
     "timeYear": 173,
     "dailyMinutesDown": {}
   },
@@ -181,7 +181,7 @@
     "time": 489,
     "timeDay": 622,
     "timeWeek": 460,
-    "timeMonth": 451,
+    "timeMonth": 450,
     "timeYear": 496,
     "dailyMinutesDown": {}
   }
